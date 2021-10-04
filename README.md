@@ -3,7 +3,7 @@ Data analysis / Jupyter notebook / Python / Pandas, Numpy, Matplotlib, Geopandas
 
 Réaliser une étude de santé publique avec Python
 
-livrable : le notebook Jupyter
+livrable : notebook Jupyter
 
 Compétences : 
 
