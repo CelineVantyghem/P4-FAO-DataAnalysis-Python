@@ -11,11 +11,6 @@ Compétences :
 - Créer un environnement de développement
 
 Remarques sur l'évaluation
-Compétences évaluées
-
-En vous basant sur les critères d’évaluation du projet, définissez le statut d’acquisition de chaque compétence et commentez à l'aide de ces instructions :
-
-Validé
 
 1. Utiliser des librairies spécialisées pour les traitements data
 
