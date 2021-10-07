@@ -1,4 +1,4 @@
-# FAO-data-analysis---Python
+# FAO-data-analysis-Python
 Data analysis / Jupyter notebook / Python / Pandas, Numpy, Matplotlib, Geopandas
 
 Réaliser une étude de santé publique avec Python
